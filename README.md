@@ -24,7 +24,7 @@ To demonstrate the design, document, and implemention of a real-world compliant 
 **Quick Links**
 - [ISMS Manual (Clauses 4–10)](ISMS-Manual/ISMS-Manual.md)
 - [Risk Register & Treatment Plan](03_Risk_Assessment/Risk-Register.xlsx)
-- [Statement of Applicability](04_Statement_of_Applicability/SoA-2022-CZ-Ltd.xlsx)
+- [Statement of Applicability](https://docs.google.com/spreadsheets/d/1l_fd-q7jJhJ2kXfy-OWuzmOzrEKh-9lCsjB6FMcMfIY/edit?usp=sharing)
 - [Policies Folder](05_Policies_and_Procedures/)
 - [Evidence of Controls](06_Evidence_of_Implementation/)
 
