@@ -18,4 +18,4 @@ This SoA forms an integral part of CZ Ltd’s journey toward ISO 27001:2022 cert
 ### Excerpt from SOA
 <img width="1151" height="403" alt="image" src="https://github.com/user-attachments/assets/a42785be-996a-4644-9ad1-2cea01f4ad7b" />
 
-[Download full SoA as CSV](SoA-2022-CZ-Ltd.csv)
+[Download full SoA as CSV](https://docs.google.com/spreadsheets/d/1l_fd-q7jJhJ2kXfy-OWuzmOzrEKh-9lCsjB6FMcMfIY/edit?usp=sharing)
