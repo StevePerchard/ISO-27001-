@@ -12,7 +12,7 @@ CZ Ltd – FCA-authorised FinTech providing lending-as-a-service to UK credit un
 52 employees | Microsoft Azure (UK South/West) | Microsoft 365 E5 | Handles UK-GDPR special-category and financial data.
 
 **Why I built this**  
-To go far beyond the ISO 27001:2022 CIF-F certification and prove I can design, document, and implement a real-world compliant ISMS from scratch – exactly what UK GRC, Information Security, and Compliance teams look for.
+To demonstrate the design, document, and implemention of a real-world compliant ISMS from scratch.
 
 **Key Highlights**
 - Full UK-specific risk assessment (financial services threats)
