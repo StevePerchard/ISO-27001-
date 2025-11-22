@@ -1,1 +1,110 @@
 
+Control ID,Control Title,Applicable?,Justification,Implementation Status,Evidence Location
+A.5.1,Policies for information security,Yes,Core policy requirement for leadership commitment.,Implemented,05_Policies_and_Procedures/
+A.5.2,Information security roles and responsibilities,Yes,Small team needs clear RACI matrix.,Implemented,02_Leadership_and_Commitment/Roles-and-Responsibilities.md
+A.5.3,Segregation of duties,Yes,FinTech requires segregation for financial controls.,Implemented,Evidence/screenshots/RBAC.png
+A.5.4,Management responsibilities,Yes,UK FCA regulations demand management oversight.,Implemented,02_Leadership_and_Commitment/
+A.5.5,Contact with authorities,Yes,Must report incidents to FCA/ICO.,Implemented,Incident-Response-Plan.md
+A.5.6,Contact with special interest groups,No,Not relevant for our small FinTech scope.,Not Applicable,
+A.5.7,Threat intelligence,Yes,Monitor FCA/ICO alerts for financial threats.,Implemented,05_Policies_and_Procedures/
+A.5.8,Information security in project management,Yes,Embed in all Azure deployments.,Implemented,Secure-Development-Policy.md
+A.5.9,Inventory of information and other associated assets,Yes,Asset register maintained.,Implemented,03_Risk_Assessment/Asset-Register.csv
+A.5.10,Acceptable use of information and other associated assets,Yes,Employee handbook policy.,Implemented,05_Policies_and_Procedures/
+A.5.11,Return of assets,Yes,Offboarding process includes asset return.,Implemented,Roles-and-Responsibilities.md
+A.5.12,Classification of information,Yes,GDPR-aligned labels (Public/Restricted/Confidential/Critical).,Implemented,Purview-Retention-Labels.png
+A.5.13,Labelling of information,Yes,Applied to all docs in M365.,Implemented,Microsoft-365-DLP-Policy.png
+A.5.14,Information transfer,Yes,Secure transfers via Azure Storage or encrypted email.,Implemented,Access-Control-Policy.md
+A.5.15,Access control,Yes,Core for PII protection.,Implemented,Conditional-Access-MFA.png
+A.5.16,Identity management,Yes,Azure AD for all users.,Implemented,Azure-RBAC-Role-Assignments.png
+A.5.17,Authentication information,Yes,MFA enforced.,Implemented,MFA-Enforced.png
+A.5.18,Access rights,Yes,PIM for admins.,Implemented,Defender-for-Cloud-Enabled.png
+A.5.19,Information security in supplier relationships,Yes,Key for Experian integration.,Implemented,Supplier-Relationships-Policy.md
+A.5.20,Addressing information security within supplier agreements,Yes,Contract clauses reviewed.,Implemented,Supplier-Relationships-Policy.md
+A.5.21,Managing information security in the ICT supply chain,Yes,Azure/Microsoft SLAs.,Implemented,Supplier-Relationships-Policy.md
+A.5.22,Monitoring, review and change management of supplier services,Yes,Quarterly reviews.,Implemented,Supplier-Relationships-Policy.md
+A.5.23,Information security for use of cloud services,Yes,Azure compliance.,Implemented,Azure-Key-Vault-HSM.png
+A.5.24,Information security incident management planning and preparation,Yes,Part of IR plan.,Implemented,Incident-Response-Plan.md
+A.5.25,Assessment and decision on information security events,Yes,Defined thresholds.,Implemented,Incident-Response-Plan.md
+A.5.26,Response to information security incidents,Yes,Step-by-step procedures.,Implemented,Incident-Response-Plan.md
+A.5.27,Learning from information security incidents,Yes,Post-incident reviews.,Implemented,Internal-Audit-Report-2025-06.pdf
+A.5.28,Collection of evidence,Yes,For FCA reporting.,Implemented,Incident-Response-Plan.md
+A.5.29,Information security during disruption,Yes,BCP alignment.,Implemented,Incident-Response-Plan.md
+A.5.30,ICT readiness for business continuity,Yes,Azure backups.,Implemented,CloudTrail-Enabled.png
+A.5.31,Legal, statutory, regulatory and contractual requirements,Yes,FCA/UK GDPR compliance.,Implemented,Scope-Statement.md
+A.5.32,Intellectual property rights,Yes,Protect lending algorithms.,Implemented,Information-Security-Policy.md
+A.5.33,Protection of records,Yes,Retention in Purview.,Implemented,Purview-Retention-Labels.png
+A.5.34,Privacy and protection of PII,Yes,UK GDPR core.,Implemented,Microsoft-365-DLP-Policy.png
+A.5.35,Independent review of information security,Yes,Annual external audit.,Implemented,Internal-Audit-Report-2025-06.pdf
+A.5.36,Compliance with policies, rules and standards for information security,Yes,Internal checks.,Implemented,Management-Review-Minutes-2025-07.pdf
+A.5.37,Documented operating procedures,Yes,All policies documented.,Implemented,05_Policies_and_Procedures/
+A.6.1,Screening,Yes,DBS checks for finance roles.,Implemented,Roles-and-Responsibilities.md
+A.6.2,Terms and conditions of employment,Yes,NDA included.,Implemented,Information-Security-Policy.md
+A.6.3,Information security awareness, education and training,Yes,Annual M365 training.,Implemented,Security-Awareness-Training-Proof.png
+A.6.4,Disciplinary process,Yes,HR policy.,Implemented,Roles-and-Responsibilities.md
+A.6.5,Responsibilities after termination or change of employment,Yes,Offboarding checklist.,Implemented,Remote-Working-Policy.md
+A.6.6,Confidentiality or non-disclosure agreements,Yes,All staff sign.,Implemented,Information-Security-Policy.md
+A.6.7,Remote working,Yes,60% remote team.,Implemented,Remote-Working-Policy.md
+A.6.8,Information security event reporting,Yes,Report to security@czltd.com.,Implemented,Incident-Response-Plan.md
+A.7.1,Physical security perimeters,Yes,London office access.,Implemented,Remote-Working-Policy.md
+A.7.2,Physical entry,Yes,Badge system.,Implemented,
+A.7.3,Securing offices, rooms and facilities,Yes,CCTV in server room.,Implemented,
+A.7.4,Physical security monitoring,Yes,Access logs.,Implemented,
+A.7.5,Protecting against physical and environmental threats,Yes,Fire suppression.,Implemented,
+A.7.6,Working in secure areas,Yes,Visitor policy.,Implemented,
+A.7.7,Clear desk and clear screen,Yes,Daily practice.,Implemented,Training-Material-Sample.pdf
+A.7.8,Equipment siting and protection,Yes,Locked cabinets.,Implemented,
+A.7.9,Security of assets off-premises,Yes,Laptop encryption.,Implemented,
+A.7.10,Storage media,Yes,Encrypted USBs.,Implemented,
+A.7.11,Supporting utilities,Yes,Azure redundancy.,Implemented,
+A.7.12,Cabling security,Yes,Secure routing.,Implemented,
+A.7.13,Equipment maintenance,Yes,Annual checks.,Implemented,
+A.7.14,Secure disposal or re-use of equipment,Yes,Wipe before disposal.,Implemented,
+A.7.15,Removal of assets,Yes,Approval required.,Implemented,
+A.8.1,User endpoint devices,Yes,M365 Intune.,Implemented,
+A.8.2,Privileged access rights,Yes,PIM only.,Implemented,
+A.8.3,Information access restriction,Yes,Need-to-know.,Implemented,
+A.8.4,Access to source code,Yes,GitHub RBAC.,Implemented,
+A.8.5,Secure authentication,Yes,MFA everywhere.,Implemented,
+A.8.6,Allocation of information processing facilities,Yes,Azure resource groups.,Implemented,
+A.8.7,Web filtering,Yes,Defender for Cloud Apps.,Implemented,
+A.8.8,Use of privileged utility programs,Yes,Audited.,Implemented,
+A.8.9,Installation of software on operational systems,Yes,Approved list.,Implemented,
+A.8.10,Networks security,Yes,NSGs in Azure.,Implemented,
+A.8.11,Security of network services,Yes,Azure Firewall.,Implemented,
+A.8.12,Segregation of networks,Yes,VNet peering controlled.,Implemented,
+A.8.13,Information transfer,Yes,HTTPS/TLS 1.3.,Implemented,
+A.8.14,Securing availability,Yes,Azure DDoS Protection.,Implemented,
+A.8.15,Logging,Yes,Azure Monitor.,Implemented,
+A.8.16,Monitoring activities,Yes,Sentinel alerts.,Implemented,
+A.8.17,Clock synchronization,Yes,NTP enabled.,Implemented,
+A.8.18,Use of privileged utility programs,No,Not applicable.,Not Applicable,
+A.8.19,Configuration management,Yes,Azure Policy.,Implemented,
+A.8.20,Information deletion,Yes,Secure wipe tools.,Implemented,
+A.8.21,Protection of information systems during audit testing,Yes,Pentest rules.,Implemented,Sample-PenTest-Report-CZ-Ltd-2025.pdf
+A.8.22,Temporary segment,Yes,Isolated test env.,Implemented,
+A.8.23,Protection of test environments,No,Dev/test out of scope.,Not Applicable,
+A.8.24,Use of cryptography,Yes,Azure Key Vault.,Implemented,Azure-Key-Vault-HSM.png
+A.8.25,Secure development life cycle,Yes,SDLC policy.,Implemented,Secure-Development-Policy.md
+A.8.26,Outsourced development,Yes,For API integrations.,Implemented,Supplier-Relationships-Policy.md
+A.8.27,Separation of development, test and production environments,Yes,Azure environments.,Implemented,
+A.8.28,Secure system engineering principles,Yes,Least privilege.,Implemented,
+A.8.29,Security requirements of information systems,Yes,Capture in tickets.,Implemented,
+A.8.30,Secure system architecture and engineering principles,Yes,Reference architecture.,Implemented,
+A.8.31,Development, test and production environments,Yes,Segregated.,Implemented,
+A.8.32,Change management,No,Agile process covers.,Not Applicable,
+A.8.33,Test information,No,Mock data only.,Not Applicable,
+A.8.34,Protection of information systems during audit testing,Yes,As above.,Implemented,
+A.9.1,Business requirements of information security,Yes,Aligned to FCA.,Implemented,Security-Objectives.md
+A.9.2,Information security in project management,Yes,As A.5.8.,Implemented,
+A.9.3,Inventory of information and other associated assets,Yes,As A.5.9.,Implemented,
+A.9.4,Business continuity objectives,Yes,99.9% uptime.,Implemented,
+A.10.1,Classification of information,Yes,As A.5.12.,Implemented,
+A.10.2,Labelling of information,Yes,As A.5.13.,Implemented,
+A.10.3,Handling of assets,Yes,Asset policy.,Implemented,
+A.10.4,Media handling,Yes,Secure media.,Implemented,
+A.10.5,Media access,Yes,Controlled.,Implemented,
+A.10.6,Media disposal,Yes,Shredding.,Implemented,
+A.10.7,Media re-use,Yes,Wipe cycles.,Implemented,
+A.10.8,Unattended user equipment,Yes,Lock screens.,Implemented,
+A.10.9,Clear desk and clear screen,Yes,As A.7.7.,Implemented,
+A.10.10,Unattended assets,Yes,Secure storage.,Implemented,
