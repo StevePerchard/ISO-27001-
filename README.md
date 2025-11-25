@@ -23,7 +23,7 @@ To demonstrate the design, document, and implemention of a real-world compliant 
 
 **Quick Links**
 - [ISMS Manual (Clauses 4–10)](ISMS-Manual/ISMS-Manual.md)
-- [Risk Assessment)]()
+- [Risk Assessment](https://github.com/StevePerchard/ISO-27001-/blob/main/03_Risk_Assessment/Risk_Assessment/01_Risk-Assessment-and-Treatment-Process.md)
 - [Risk Register & Treatment Plan](03_Risk_Assessment/Risk-Register.xlsx)
 - [Statement of Applicability](https://github.com/StevePerchard/ISO-27001-/blob/main/04_Statement_of_Applicability/Intro-context.md)
 - [Policies Folder](05_Policies_and_Procedures/)
