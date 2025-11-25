@@ -1,4 +1,4 @@
-# ISMS Scope Statement – CypherRisk Ltd  
+# ISMS Scope Statement – Cyzilla Ltd  
 **Version 1.0 – 01 April 2025 – Approved by: Managing Director**
 
 ### Scope of the Information Security Management System (Clause 4.3)
@@ -28,8 +28,8 @@ The ISMS applies to all business processes supporting the delivery of:
 
 This scope has been determined considering:
 - Internal and external issues (Clause 4.1) – small remote team, high-value sensitive client data, FCA regulatory oversight
-- Interested parties (Clause 4.2) – clients, FCA principal firm, cyber insurers, Microsoft (cloud provider)
+- Interested parties (Clause 4.2) – clients, cyber insurers, Microsoft (cloud provider)
 - Interfaces and dependencies – full dependency on Microsoft shared responsibility model
 
 Signed:  
-/s/ Dr. Alex Harper – Managing Director & CISO – 01 April 2025
+/s/ Steve Perchard – Managing Director & CISO – 01 April 2025
