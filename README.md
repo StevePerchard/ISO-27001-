@@ -1,5 +1,5 @@
 # ISO-27001-Development-Project
-# ISO 27001:2022 ISMS – CZ Ltd 
+# ISO 27001:2022 ISMS – Cyzilla Ltd 
 ![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001-2022%20Compliant-brightgreen)
 ![UK](https://img.shields.io/badge/Location-United%20Kingdom-blue)
 ![Certification](https://img.shields.io/badge/Certified-ISO%2027001%3A2022%20CIF--F-blue)
