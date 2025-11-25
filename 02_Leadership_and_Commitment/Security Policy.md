@@ -1,8 +1,8 @@
-# Information Security Policy – CypherRisk Ltd  
+# Information Security Policy – Cyzilla Ltd  
 **Version 1.0 – 01 April 2025 – Approved by: Managing Director**
 
 ### Purpose
-CypherRisk Ltd is committed to preserving the **confidentiality, integrity and availability** of all information assets entrusted to us by our clients and required to run our business.
+Cyzilla Ltd is committed to preserving the **confidentiality, integrity and availability** of all information assets entrusted to us by our clients and required to run our business.
 
 As a cyber risk consultancy handling sensitive client data (including OFFICIAL-SENSITIVE material) and operating under FCA oversight, information security is central to our reputation and legal obligations.
 
@@ -20,7 +20,7 @@ Top management commits to:
 6. Promoting a positive security culture through leadership and example
 
 ### Scope
-This policy applies to all employees, contractors and third parties who have access to CypherRisk information assets (see Scope Statement).
+This policy applies to all employees, contractors and third parties who have access to Cyzilla information assets (see Scope Statement).
 
 ### Key Principles
 - Information will be classified and protected according to its sensitivity
@@ -36,7 +36,7 @@ This policy applies to all employees, contractors and third parties who have acc
 This policy is reviewed annually or after any significant incident/change.
 
 Signed:  
-/s/ Dr. Alex Harper  
+/s/ Steve Perchard
 Managing Director & Chief Information Security Officer  
 01 April 2025
 
