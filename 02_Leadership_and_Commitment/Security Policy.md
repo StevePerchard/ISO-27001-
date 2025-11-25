@@ -4,7 +4,7 @@
 ### Purpose
 Cyzilla Ltd is committed to preserving the **confidentiality, integrity and availability** of all information assets entrusted to us by our clients and required to run our business.
 
-As a cyber risk consultancy handling sensitive client data (including OFFICIAL-SENSITIVE material) and operating under FCA oversight, information security is central to our reputation and legal obligations.
+As a cyber risk consultancy handling sensitive client data (including OFFICIAL-SENSITIVE material) information security is central to our reputation and legal obligations.
 
 ### Policy Statement
 Top management commits to:
