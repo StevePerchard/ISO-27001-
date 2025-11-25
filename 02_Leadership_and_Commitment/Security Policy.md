@@ -11,7 +11,6 @@ Top management commits to:
 1. Establishing, implementing, maintaining and continually improving an Information Security Management System (ISMS) in conformity with **ISO/IEC 27001:2022**
 2. Satisfying all applicable requirements including:
    - UK GDPR & Data Protection Act 2018
-   - FCA SYSC and COND sourcebook requirements
    - Contractual and NDA obligations with clients and cyber insurers
    - NCSC Cyber Essentials Plus (achieved March 2025)
 3. Setting and reviewing information security objectives at least annually
