@@ -6,20 +6,15 @@
 
 Practical, complete, and realistic **Information Security Management System (ISMS)** built 100% to **ISO/IEC 27001:2022** + all 93 Annex A controls.
 
-**Fictional Company**  
-CZ Ltd – FCA-authorised FinTech providing lending-as-a-service to UK credit unions and challenger banks.  
-52 employees | Microsoft Azure (UK South/West) | Microsoft 365 E5 | Handles UK-GDPR special-category and financial data.
+## Company: Cyzilla Ltd
 
-**Why I built this**  
-To demonstrate the design, document, and implemention of a real-world compliant ISMS from scratch.
+UK-based cyber risk consulting firm
+Up to 5 permanent staff (all remote + occasional hot-desk in Cheltenham co-working space)
+Technology: Microsoft Azure (UK South), Microsoft 365 E5, 5 Intune-managed Windows laptops
+Services: ISO 27001 gap assessments, NCSC CAF assessments, cyber insurance risk surveys for SMEs
 
-**Key Highlights**
-- Full UK-specific risk assessment (financial services threats)
-- Statement of Applicability with 89/93 controls applicable
-- Policies aligned to UK NCSC, FCA SYSC 21, and UK GDPR
-- Real Azure + Microsoft 365 evidence screenshots
 - Complete internal audit + management review pack
-- 
+
 ## ISO 27001:2022 Mandatory Documents – Quick Links  
 *(All 15 “shall” documents/records required by the standard – 100 % covered)*
 
