@@ -26,7 +26,7 @@ Services: ISO 27001 gap assessments, NCSC CAF assessments, cyber insurance risk 
 | 6.1.2        | Risk assessment results (Risk Register)                | Completed  | [Risk Register ](https://docs.google.com/spreadsheets/d/19TvwdS3w6RDOUlu29KCrVU7840pJLTmSXXEZceUFLIQ/edit?gid=0#gid=0)                     |
 | 6.1.3        | Statement of Applicability (SoA)                       | Completed  | [SoA v1.0 ](https://docs.google.com/spreadsheets/d/1GqUdYnB6is233r_0UhibLqug0hqR5RPXmqBdsSEfO6c/edit?usp=sharing)                   |
 | 6.1.3        | Risk treatment plan                                    | Completed  | Included in Risk Register above                                                        |
-| 6.2          | Information security objectives                        | Completed  | [Security Objectives](02_Leadership_and_Commitment/Security-Objectives.md)             |
+| 6.2          | Information security objectives                        | Completed  | [Security Objectives](https://github.com/StevePerchard/ISO-27001-/blob/main/02_Leadership_and_Commitment/Security%20Objectives.md)             |
 | 7.2          | Evidence of competence (training, certs)               | Completed  | [Training records & certs](06_Evidence_of_Implementation/screenshots/)                |
 | 8.2 / 8.3    | Results of risk treatment (residual risk)              | Completed  | Risk Register + SoA                                                                    |
 | 9.1          | Monitoring & measurement results                       | Completed  | [Evidence screenshots](06_Evidence_of_Implementation/screenshots/)                    |
