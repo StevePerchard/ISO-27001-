@@ -31,7 +31,7 @@ Services: ISO 27001 gap assessments, NCSC CAF assessments, cyber insurance risk 
 | 8.2 / 8.3    | Results of risk treatment (residual risk)              | Completed  | Risk Register + SoA                                                                    |
 | 9.1          | Monitoring & measurement results                       | Completed  | [Evidence screenshots](https://github.com/StevePerchard/ISO-27001-/blob/main/06_Evidence_of_Implementation/screenshots/evidence.md)                    |
 | 9.2.2        | Internal audit programme & report                      | Completed  | [Internal Audit Report 2025](https://github.com/StevePerchard/ISO-27001-/blob/main/07_Internal_Audit_and_Management_Review/Internal%20Audit.md) |
-| 9.3          | Management review results                              | Completed  | [Management Review Q1 2025](07_Internal_Audit_and_Management_Review/Management-Review-Minutes-2025-Q1.pdf) |
+| 9.3          | Management review results                              | Completed  | [Management Review Q1 2025](https://github.com/StevePerchard/ISO-27001-/blob/main/07_Internal_Audit_and_Management_Review/Management%20Review.md) |
 | 10.1         | Non-conformity & corrective action records            | Completed  | [Corrective Actions Log](https://github.com/StevePerchard/ISO-27001-/blob/main/07_Internal_Audit_and_Management_Review/Non%20Conformities.md) |
 
 All mandatory documented information required by ISO 27001:2022 is present, version-controlled, and auditable.
