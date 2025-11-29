@@ -22,7 +22,7 @@ Services: ISO 27001 gap assessments, NCSC CAF assessments, cyber insurance risk 
 |--------------|--------------------------------------------------------|------------|----------------------------------------------------------------------------------------|
 | 4.3          | ISMS Scope Statement                                   | Completed  | [Scope Statement](https://github.com/StevePerchard/ISO-27001-/blob/main/01_Scope_and_Context/Scope.md)                             |
 | 5.2          | Information Security Policy (top management signed)   | Completed  | [Information Security Policy](https://github.com/StevePerchard/ISO-27001-/blob/main/02_Leadership_and_Commitment/Security%20Policy.md) |
-| 6.1.1–6.1.2  | Risk assessment process & methodology                  | Completed  | [Risk Assessment Process](03_Risk_Assessment/01_Risk-Assessment-and-Treatment-Process.md) |
+| 6.1.1–6.1.2  | Risk assessment process & methodology                  | Completed  | [Risk Assessment Process]()https://docs.google.com/document/d/1fpC4VOUgKLjv5A41BSFym-FG-vDhee-CsXQ-63uX2Qc/edit?usp=sharing |
 | 6.1.2        | Risk assessment results (Risk Register)                | Completed  | [Risk Register ](https://docs.google.com/spreadsheets/d/19TvwdS3w6RDOUlu29KCrVU7840pJLTmSXXEZceUFLIQ/edit?gid=0#gid=0)                     |
 | 6.1.3        | Statement of Applicability (SoA)                       | Completed  | [SoA v1.0 (CSV)]()                   |
 | 6.1.3        | Risk treatment plan                                    | Completed  | Included in Risk Register above                                                        |
